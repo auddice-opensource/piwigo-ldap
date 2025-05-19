@@ -1,0 +1,78 @@
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+form {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+h2 {
+    font-size: 1.8rem;
+    color: #333333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+form div {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-size: 1rem;
+    color: #555555;
+    margin-bottom: 8px;
+}
+
+input {
+    width: 100%;
+    padding: 12px 16px;
+    font-size: 1rem;
+    color: #333333;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+input:focus {
+    border-color: #3f51b5;
+    box-shadow: 0 0 4px rgba(63, 81, 181, 0.4);
+    outline: none;
+    background-color: #ffffff;
+}
+
+button {
+    display: inline-block;
+    width: 100%;
+    padding: 12px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #3f51b5;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #2c3e9a;
+}
+
+button:active {
+    background-color: #1b2871;
+}
