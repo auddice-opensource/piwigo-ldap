@@ -37,5 +37,3 @@ Un fichier `debug.log` est généré dans le répertoire du plugin pour suivre l
 ## Auteur
 Développé par Sébastien GERARD.
 
-## Licence
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
