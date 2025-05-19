@@ -29,7 +29,7 @@ Sauvegardez les changements en cliquant sur le bouton « Enregistrer ».
 - Configuration simple via l'interface d'administration intégrée.
 
 ## Compatibilité
-Ce plugin a été testé sur Piwigo 13.x.
+Ce plugin a été testé sur Piwigo 15.3
 
 ## Débogage
 Un fichier `debug.log` est généré dans le répertoire du plugin pour suivre les erreurs et les actions effectuées lors de l'authentification.
