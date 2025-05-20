@@ -37,3 +37,6 @@ Un fichier `debug.log` est généré dans le répertoire du plugin pour suivre l
 ## Auteur
 Développé par Sébastien GERARD.
 
+## Licence 
+[Licence GNU GPLv3 Cecill](/LICENCE.md)
+
